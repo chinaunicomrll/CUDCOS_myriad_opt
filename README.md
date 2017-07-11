@@ -1,1 +1,4 @@
-# CUDCOS_myraid_opt
+Myriad改进版
+
+
+增加了Myriad优先利用预留资源的功能
